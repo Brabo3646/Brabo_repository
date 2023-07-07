@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: chartreuse;
+}
+h1{
+    color:aqua;
+}
+p{
+    color:cyan;
+    font-size: 14px;
+}
+input{
+    color: coral;
+}
